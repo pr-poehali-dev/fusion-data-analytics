@@ -48,7 +48,8 @@ export default function HeroSection() {
               )}
             >
               <div className="h-px w-24 bg-white/30 mb-6" />
-              <p className="text-white/60 text-lg">8 класс · 2025</p>
+              <p className="text-white text-xl">Егор Долгих</p>
+              <p className="text-white/60 text-lg mt-1">8 класс · 2025</p>
             </div>
 
             <div
